@@ -1,4 +1,4 @@
-# Layoff-Analysis-and-Prediction
+# Layoff Landscape: Analyzing Patterns and Trends in Workforce Reductions
 
 ## Description
 This project aims to analyze a dataset containing information about layoffs in companies across various industries and locations. The dataset includes details such as company names, locations, industries, total number of employees laid off, percentage of employees laid off, dates of layoffs, company stages, countries, and funds raised. The analysis encompasses data cleaning, exploratory data analysis (EDA), and feature engineering to gain insights into the patterns and trends related to layoffs.
