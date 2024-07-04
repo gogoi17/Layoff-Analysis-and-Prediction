@@ -13,7 +13,7 @@ This project aims to analyze a dataset containing information about layoffs in c
 
 3. **Feature Engineering:** Additional features like year, month, and day were extracted from the date column to facilitate temporal analysis.
 
-4. **Predictive Modeling:** A Random Forest Regression model was trained and optimized using GridSearchCV to predict the month of layoffs based on various features. The optimized model achieved high accuracy scores, with an R-squared value of 1.0, indicating a perfect fit on the training data.
+4. **Predictive Modeling:** A Random Forest Regression model was trained and optimized using GridSearchCV to predict the month of layoffs based on various features.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
